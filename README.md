@@ -1,2 +1,2 @@
 # GARCH_ZV_MCMC
-Implémentation de méthodes de Monte-Carlo par chaînes de Markov avec des "control variates" pour évaluer les paramètres de modèles GARCH.
+Implementation of Monte Carlo methods via Markov chains with control variates to evaluate GARCH model parameters.
